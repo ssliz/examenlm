@@ -1,0 +1,2 @@
+origin	/home/vboxuser/Examen_LM/servidor-remoto (fetch)
+origin	/home/vboxuser/Examen_LM/servidor-remoto (push)
