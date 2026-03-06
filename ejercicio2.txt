@@ -1,0 +1,11 @@
+* remote origin
+  Fetch URL: /home/vboxuser/Examen_LM/servidor-remoto
+  Push  URL: /home/vboxuser/Examen_LM/servidor-remoto
+  HEAD branch: master
+  Remote branches:
+    main   tracked
+    master tracked
+  Local branch configured for 'git pull':
+    master merges with remote master
+  Local ref configured for 'git push':
+    master pushes to master (up to date)
